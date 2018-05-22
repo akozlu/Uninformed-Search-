@@ -1,7 +1,7 @@
 import sys
 import Tkinter
 
-import homework2
+import UnInformedSearch
 
 
 class Light(Tkinter.Canvas):
